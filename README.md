@@ -1,6 +1,7 @@
 # King County Home Value Predictions
 
-![Presentation Link](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/Phase2_Project_Presentation_DJackson.pdf)
+![Presentation Link](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/Phase2_Project_Presentation_DJackson.pdf) <br>
+
 ![Jupyter Notebook Link](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/RE_Prediction_P2.ipynb) 
 
 ## Author: Deztany Jackson
@@ -236,17 +237,19 @@ Average home value differences :
 - Zipcode 98168: \$ 340,300, %200 Increase<br>
 
 
-Specific zipcode example (98188) had the highest amount of homes (106) that met our criteria for needing improvement.<br>
 
-Zipcode 98188 home value differences:
-
-- Average of  \$ 323,000 price increase <br>
-- Lowest change of \$ 14,500 increase (35,000 loss was recorded, but most likely an outlier error). <br> 
-- Highest change \$624,000 increase. <br>
 
 ***
 ![Average Zipcode Home Value Comparison ](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/images/ZipcodeAvg_HomeValue.png)
 ***
+
+Specific zipcode example (98188) had the highest amount of homes (106) that met our criteria for needing improvement.<br>
+
+Zipcode 98188 home value differences:
+
+- Average of  \$ 323,500 price increase <br>
+- Lowest change of \$ 14,500 increase (35,000 loss was recorded, but most likely an outlier error). <br> 
+- Highest change \$624,000 increase. <br>
 
 ***
 ![ Zipcode 98188 Home Value Comparison ](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/images/Zipcode18_HomeValue.png)
