@@ -1,10 +1,10 @@
 # King County Home Value Predictions
 
-[Presentation Link]()
-[Jupyter Notebook Link]() 
+![Presentation Link](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/Phase2_Project_Presentation_DJackson.pdf)
+![Jupyter Notebook Link](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/RE_Prediction_P2.ipynb) 
 
 ## Author: Deztany Jackson
-## Intial Date: December 2022
+
 
 
 # Overview
@@ -245,11 +245,11 @@ Zipcode 98188 home value differences:
 - Highest change \$624,000 increase. <br>
 
 ***
-[Average Zipcode Home Value Comparison ](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/images/ZipcodeAvg_HomeValue.png)
+![Average Zipcode Home Value Comparison ](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/images/ZipcodeAvg_HomeValue.png)
 ***
 
 ***
-[Average Zipcode Home Value Comparison ](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/images/Zipcode18_HomeValue.png)
+![ Zipcode 98188 Home Value Comparison ](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/images/Zipcode18_HomeValue.png)
 ***
 
 # Conclusion
