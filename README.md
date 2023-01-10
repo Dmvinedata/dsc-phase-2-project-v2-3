@@ -47,7 +47,7 @@ We will improve the baseline model by adding more features training more feature
 Certain features from the dataset will be transformed. Log transformations will be performed on the sqft features and the "price" to normalize their data, due to their skewness. Because we already transformed the "condition" and "grade" features to numbers, we will apply the One Hot Encoding transformation to the "Waterfront" categorical feature.
 
 ***
-[Home Value Distribution](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/images/Initial_DistPrices_1.png)
+![Home Value Distribution](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/images/Initial_DistPrices_1.png)
 ***
 
  The features that are above the needed p-value are: - **"wa_NO"** .
