@@ -50,7 +50,7 @@ Certain features from the dataset will be transformed. Log transformations will 
 ![Home Value Distribution](https://github.com/Dmvinedata/dsc-phase-2-project-v2-3/blob/main/images/Initial_DistPrices_1.png)
 ***
 
- The features that are above the needed p-value are: - **"wa_NO"** .
+ The feature(s) that are above the needed p-value (.05) are: - **"wa_NO"** . This feature will be dropped for rejecting the Null Hypothesis of being significant.
 
 Ref Statsmodel Interpretation[Tim McAleer, 2020](https://medium.com/swlh/interpreting-linear-regression-through-statsmodels-summary-4796d359035a)
 
